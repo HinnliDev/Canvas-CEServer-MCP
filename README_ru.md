@@ -2,16 +2,11 @@
 
 # Canvas Cheat Engine Server MCP
 
-[English version](README.md)
-
-# Sky Protocol Tool (SPT)
 [![English](https://img.shields.io/badge/lang-English-red)](README.md)
 [![License MIT](https://badgen.net/github/license/HinnliDev/Canvas-CEServer-MCP)](LICENSE)
 
 
-Streamable HTTP-мост с доступом только для чтения предназначен для [Canvas](https://github.com/skyprotocol/Canvas-Open-Source), Android-модлоадера для игры Sky: Children of the Light.
-
-Он подключает MCP-клиенты к Cheat Engine Server, встроенному в Canvas.
+Streamable HTTP-мост с доступом только для чтения предназначен для [Canvas](https://github.com/skyprotocol/Canvas-Open-Source), Android-модлоадера для игры Sky: Children of the Light. Он подключает MCP-клиенты к Cheat Engine Server, встроенному в Canvas.
 </div>
 
 ## Требования
