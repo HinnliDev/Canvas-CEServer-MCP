@@ -25,7 +25,7 @@ python -m pip install "fastmcp>=3.1,<4"
 Enable Cheat Engine Server in Canvas, then start the bridge:
 
 ```powershell
-py -3.11 canvas_ce_mcp.py --host auto --port 52736 --mcp-host 127.0.0.1 --mcp-port 8765
+python canvas_ce_mcp.py --host auto --port 52736 --mcp-host 127.0.0.1 --mcp-port 8765
 ```
 
 Keep the terminal open. The server remains available between MCP client sessions and logs requests, tool arguments, execution time, connection events, and errors. Stop it with `Ctrl+C`.
